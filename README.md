@@ -16,3 +16,5 @@ git branch = lista branchs
 git branch nome-branch hashcommit
 git branch -b nome-branch =  a partir do ultimo commit
 git branch -d D
+
+git rebase nome-branch
