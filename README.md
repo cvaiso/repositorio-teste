@@ -18,3 +18,7 @@ git branch -b nome-branch =  a partir do ultimo commit
 git branch -d D
 
 git rebase nome-branch
+
+git clone <link repositorio>
+git remote add origin <link do repositorio>
+git push -u origin <nome da branch>
